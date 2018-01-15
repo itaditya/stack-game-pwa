@@ -1,0 +1,15 @@
+{
+  "name": "Stack",
+  "short_name": "Stack",
+  "icons": [
+    {
+      "src": "icon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#d0cbc7",
+  "theme_color": "#313140"
+}
