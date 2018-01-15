@@ -2,6 +2,6 @@
 
 Get it on https://stack.surge.sh
 
-[](/game.png)
+![Screenshot](/game.png)
 
 Sweet Sweet Mentions - [@steveg3003](https://twitter.com/steveg3003)
